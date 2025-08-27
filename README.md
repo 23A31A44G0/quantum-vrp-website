@@ -28,7 +28,7 @@ A modern, interactive Vehicle Routing Problem (VRP) solver with quantum-inspired
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/quantum-vrp-website.git
+   git clone https://github.com/23A31A44G0/quantum-vrp-website.git
    cd quantum-vrp-website
    ```
 
